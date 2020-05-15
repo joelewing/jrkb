@@ -8,4 +8,4 @@ You will need the following dependencies installed:<br/>
 `collections`<br/>
 `pandas`<br/>
 
-You will also need Chrome webdriver installed, and added to your `PATH`.
+You will also need [Chrome webdriver installed](https://sites.google.com/a/chromium.org/chromedriver/getting-started), and added to your `PATH`.
