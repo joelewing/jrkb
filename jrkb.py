@@ -47,7 +47,7 @@ for word in a.lower().split():
         else:
             wordcount[word] += 1
 # Print most common word
-n_print = int(input("How many related words would you like to print (type a number): "))
+n_print = int(input("How many related words would you like to see (type a number): "))
 print("\nOK.\n".format(n_print))
 word_counter = collections.Counter(wordcount)
 for word, count in word_counter.most_common(n_print):
