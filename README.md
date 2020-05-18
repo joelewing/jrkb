@@ -4,6 +4,7 @@ This is a tool to help find keywords to add to your resume.
 You will need the following dependencies installed:<br/>
 `re`<br/>
 `lxml`<br/>
+`selenium`<br/>
 `requests`<br/>
 `collections`<br/>
 `pandas`<br/>
